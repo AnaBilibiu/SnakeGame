@@ -1,1 +1,15 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: darkslategray;
+}
+h1{
+    color: #f3f4f7;
+    font: bold, 'Verdana';
+    font-size: 55px;
 
+}
